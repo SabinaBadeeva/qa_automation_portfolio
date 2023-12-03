@@ -27,4 +27,8 @@
 - для увеличения покрытия каждый метод каждого класса вызывался отдельным тестом;    --использовались параметризация, стабы;
 - сделан отчет в Jacoco.
 
-## <a name='yandex-samokat'/> Яндекс.Самокат
+## <a name='yandex-samokat'/> Яндекс.Самокат тестирование UI
+### MainPage.java 
+Код локаторов, методов и скроллов Главной страницы
+<img src="https://i.ibb.co/7bZHWy8/qa-scooter-praktikum-services-ru.png" alt="qa-scooter-praktikum-services-ru" border="0">
+<img src="https://i.ibb.co/vQD3nVm/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example" border="0">

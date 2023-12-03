@@ -1,9 +1,7 @@
 # <a name="up" /> QA Aautomation portfolio
 ## Тестирование UI 
  ### 1.  [сайта Яндекс.Самокат](#yandex-samokat)<br>
-  (ссылка на полный проект https://github.com/SabinaBadeeva/UI-Selenium-tests-of-Yandex_Samokat/tree/develop)<br>
- ### 2. [учебного сайта Stellar Burgers](#stellar-burgers)<br>
-  (ссылка на полный проект https://github.com/SabinaBadeeva/UI-Tests-Page-Object-Of-Stellar_Burgers)
+ ### 2.  [учебного сайта Stellar Burgers](#stellar-burgers)<br>
 - делалось покрытие автотестами по ручному сценарию;
 - собирался Maven-проект;
 - использовались JUnit4 и Selenium;

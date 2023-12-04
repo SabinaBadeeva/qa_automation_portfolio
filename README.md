@@ -1,13 +1,17 @@
 # <a name="up" /> QA Aautomation portfolio
 # Тестирование UI 
-Тестирование сделано на примере двух сайтов [Яндекс.Самокат](#yandex-samokat) и [Stellar Burgers](#stellar-burgers)<br>
+Тестирование сделано на примере двух сайтов Яндекс.Самокат и [Stellar Burgers](#stellar-burgers)<br>
+```
 - делалось покрытие автотестами по ручному сценарию;
 - собирался Maven-проект;
 - использовались JUnit4 и Selenium;
 - локаторы описывались с помощью Page Object;
 - в тестах использована параметризация;
 - тесты прогонялись в Google Chrome  и  Mozilla Firefox.
-## [Яндекс.Самокат](#yandex-samokat) 
+```
+  
+ <details>
+ <summary>Яндекс.Самокат</summary>
 
 <details>
 <summary> Код локаторов, методов и скроллов Главной страницы </summary>
@@ -44,6 +48,8 @@ OrderPage.java
  
  [Наверх](#up)
  
+</details>
+
 </details>
 
 ## [Stellar Burgers](#stellar-burgers)<br>

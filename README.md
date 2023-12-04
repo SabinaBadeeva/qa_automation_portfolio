@@ -24,13 +24,14 @@ MainPage.java  <br>
 <img src="https://i.ibb.co/mJ6K6bj/2023-12-03-040558.jpg" alt="2023-12-03-040558" border="0"> <br>
 OrderPage.java
 <img src="https://i.ibb.co/w0CDVHY/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example" border="0"> <br>
-
+[Наверх](#up)
 *** 
 </details>
 
 <details>
 <summary>Код локатора и методов для логотипа </summary>
 <img src="https://i.ibb.co/BypvGvR/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca" border="0">
+[Наверх](#up)
 *** 
 </details>
 
@@ -38,6 +39,8 @@ OrderPage.java
 <details>
 <summary>Тест прохождения полного пользовательского сценария с авторизацией и заказом самоката</summary>
  <img src="https://i.ibb.co/yfTXWWP/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example" border="0">
+ [Наверх](#up)
+ 
 *** 
 </details>
 

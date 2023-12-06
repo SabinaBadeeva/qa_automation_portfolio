@@ -8,7 +8,8 @@
 - использовались JUnit4 и Selenium;
 - локаторы описывались с помощью Page Object;
 - в тестах использована параметризация;
-- тесты прогонялись в Google Chrome  и  Mozilla Firefox.
+- для проверки тестового покрытия сделан Allure Report сайта Stellar Burgers
+- тесты прогонялись в Google Chrome  и  Mozilla Firefox
 ```
   
  <details> 

@@ -250,6 +250,9 @@ TransferTest.java
   
 <details>
    <summary>CreateCourierTest.java</summary>
+  <img src="https://i.ibb.co/cvxMycb/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Courier-Test-ja.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Courier-Test-ja" border="0">
+  
+[Наверх](#up)
 </details>
 
 </details>

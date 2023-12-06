@@ -16,7 +16,7 @@
  <summary>Яндекс.Самокат</summary>
 
 <details>
-<summary> Page Objects, методы и скроллы Главной страницы </summary>
+<summary> Page Object, методы и скроллы Главной страницы </summary>
 
  <img src="https://i.ibb.co/7bZHWy8/qa-scooter-praktikum-services-ru.png" alt="qa-scooter-praktikum-services-ru" border="0"> <br>
 MainPage.java  <br>
@@ -26,7 +26,7 @@ MainPage.java  <br>
 </details>
 
 <details>
-<summary> Page Objects, методы страницы Авторизации </summary>
+<summary> Page Object, методы страницы Авторизации </summary>
 <img src="https://i.ibb.co/mJ6K6bj/2023-12-03-040558.jpg" alt="2023-12-03-040558" border="0"> <br>
 OrderPage.java
 <img src="https://i.ibb.co/w0CDVHY/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example" border="0"> <br>
@@ -36,7 +36,7 @@ OrderPage.java
 </details>
 
 <details>
-<summary>Page Objects, методы для логотипа </summary>
+<summary>Page Object, методы для логотипа </summary>
 <img src="https://i.ibb.co/BypvGvR/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca" border="0">
  
 [Наверх](#up)
@@ -90,8 +90,39 @@ LogoSamocatTest.java
 
 </details>
 
-## Stellar Burgers  <br>
+<details>
+  
+<summary>Stellar Burgers</summary>
 
+<details>
+<summary>Page Object и методы страницы Авторизации</summary>
+<img src="https://i.ibb.co/HNbpBLn/2023-12-06-200253.jpg" alt="2023-12-06-200253" border="0">
+AuthorisationPage.java
+<img src="https://i.ibb.co/Cs4mmW1/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
+  
+ [Наверх](#up)
+  
+</details>
+
+<details>
+<summary>Page Object и методы Главной страницы</summary>
+<img src="https://i.ibb.co/SrJTfyd/stellarburgers-nomoreparties-site.png" alt="stellarburgers-nomoreparties-site" border="0">  
+MainPage.java
+<img src="https://i.ibb.co/4MBRzQv/2023-12-06-201006.jpg" alt="2023-12-06-201006" border="0">
+
+[Наверх](#up)
+</details>
+
+<details>
+<summary>Page Object и методы страницы Регистрации</summary>
+<img src="https://i.ibb.co/DGct03s/2023-12-06-201554.jpg" alt="2023-12-06-201554" border="0">
+PrivateAccount.java
+<img src="https://i.ibb.co/3fnhBHC/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
+
+[Наверх](#up)
+</details>
+
+</details>
 
 Тестирование API 
 1. сайта Яндекс.Самокат 

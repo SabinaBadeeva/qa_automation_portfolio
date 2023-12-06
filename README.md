@@ -168,14 +168,58 @@ TransferTest.java
   
 
 
-Тестирование API 
-1. сайта Яндекс.Самокат 
-2 учебного сайта Stellar Burgers
-(https://github.com/SabinaBadeeva/-API-Tests-Yandex-Samokat/tree/develop) и 
-(https://github.com/SabinaBadeeva/API-Tests-Stellar_Burgers/tree/develop_2)
-- тестирование API по документации с отправкой запросов с помощью RestAssured
+## Тестирование API 
+*Тестирование на примере двух сайтов Яндекс.Самокат и Stellar Burgers*  <br>
+
+```
+- тестирование API по документации с отправкой запросов RestAssured
 - GET, POST, PATCH запросы;
-- использовались JUnit 4, Allure 
+- использовались JUnit 4, Allure
+
+```
+<details>
+<summary>Яндекс.Самокат</summary>
+
+<details>
+<summary>Тестируемые ручки</summary>
+  <img src="https://i.ibb.co/k1BQRvS/2023-12-06-215329.jpg" alt="2023-12-06-215329" border="0">
+</details>
+
+<details>
+<summary>courier</summary>
+  <details>
+    <summary>Constants.java</summary>
+<img src="https://i.ibb.co/6XZrQB4/2023-12-06-215947.jpg" alt="2023-12-06-215947" border="0"><.br>
+  
+[Наверх](#up)
+</details>
+
+<details>
+    <summary>Courier.java</summary>
+<img src="https://i.ibb.co/LnL3q5w/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co" border="0">
+  
+[Наверх](#up)
+</details>
+<details>
+    <summary>Courier.Client.java</summary>
+<img src="https://i.ibb.co/9VPyC3G/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co" border="0">
+  
+[Наверх](#up)
+</details>
+
+<details>
+    <summary>CourierCredentials.java</summary>
+<img src="https://i.ibb.co/sV7Ttpb/2023-12-06-222235.jpg" alt="2023-12-06-222235" border="0">
+  
+  [Наверх](#up)
+</details>
+<details>
+    <summary>CourierGenerator.java</summary>
+<img src="https://i.ibb.co/9gs7gGC/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co" border="0">
+  
+  [Наверх](#up)
+</details>
+</details>
 
 Юнит-тестирование на часть кода программы
 (https://github.com/SabinaBadeeva/Maven_Project-JUnit-Mokito-Jacoco/tree/develop) и 

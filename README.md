@@ -60,11 +60,16 @@ OrderParamTest.java
   
 </details>
 
+<details>
+<summary>
+Тест проверяет содержат ли элементы нужный текст</summary>
+QuestionsMainPageTest.java
+<img src="https://i.ibb.co/YkNqk5B/github-com-Sabina-Badeeva-UI-of-Yandex-Questions-Main-Page-Test-java-6.png" alt="github-com-Sabina-Badeeva-UI-of-Yandex-Questions-Main-Page-Test-java-6" border="0">  
+</details>
+
 </details>
 
 ## Stellar Burgers  <br>
-
-
 
 
 Тестирование API 

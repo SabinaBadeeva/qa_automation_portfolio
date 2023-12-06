@@ -65,6 +65,26 @@ OrderParamTest.java
 QuestionsMainPageTest.java
 <img src="https://i.ibb.co/NW119fJ/github-com-Sabina-Badeeva-UI-of-Yandex-Questions-Main-Page-Test-java-6.png" alt="github-com-Sabina-Badeeva-UI-of-Yandex-Questions-Main-Page-Test-java-6" border="0">
   
+  [Наверх](#up)
+
+</details>
+
+<details>
+<summary>Параметризованный тест авторизации</summary>
+InputNameSurnameAddressParamTest.java
+<img src="https://i.ibb.co/642VxLZ/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-Input-Name.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-Input-Name-" border="0">
+  
+ [Наверх](#up)
+
+</details>
+
+<details>
+<summary>Тест проверяет, что логотип ведет на главную страницу</summary>
+LogoSamocatTest.java
+<img src="https://i.ibb.co/WxdgFKR/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-Logo-Samoca.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-Logo-Samoca" border="0">
+
+ [Наверх](#up)
+
 </details>
 
 </details>

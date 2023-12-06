@@ -159,7 +159,7 @@ RegistrationTest.java
 <details>
 <summary>Тесты по различным сценариям</summary>
 TransferTest.java
-<img src="https://i.ibb.co/QM9VMrR/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans" border="0">
+<img src="https://i.ibb.co/x6PCWYL/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans" border="0">
 
 [Наверх](#up)
 </details>

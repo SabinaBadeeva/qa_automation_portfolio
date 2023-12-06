@@ -163,11 +163,8 @@ TransferTest.java
 
 [Наверх](#up)
 </details>
-
 </details>
   
-
-
 ## Тестирование API 
 *Тестирование на примере двух сайтов Яндекс.Самокат и Stellar Burgers*  <br>
 
@@ -179,14 +176,14 @@ TransferTest.java
 ```
 <details>
 <summary>Яндекс.Самокат</summary>
-
-<details>
-<summary>Тестируемые ручки</summary>
+  
+  <details>
+  <summary>Тестируемые ручки</summary>
   <img src="https://i.ibb.co/k1BQRvS/2023-12-06-215329.jpg" alt="2023-12-06-215329" border="0">
 </details>
 
-<details>
-<summary>courier</summary>
+  <details>
+  <summary>courier</summary>
   <details>
     <summary>Constants.java</summary>
 <img src="https://i.ibb.co/6XZrQB4/2023-12-06-215947.jpg" alt="2023-12-06-215947" border="0"><.br>
@@ -218,6 +215,35 @@ TransferTest.java
 <img src="https://i.ibb.co/9gs7gGC/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-courier-Co" border="0">
   
   [Наверх](#up)
+</details>
+</details>
+
+<details>
+    <summary>order</summary>
+  <details>
+    <summary>Order.java</summary>
+<img src="https://i.ibb.co/vLMXqD7/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+    <summary>OrderClient.java</summary>
+<img src="https://i.ibb.co/zh87QgY/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+    <summary>OrderGenerator.java</summary>
+<img src="https://i.ibb.co/rpdnNcw/2023-12-06-224016.jpg" alt="2023-12-06-224016" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+    <summary>BaseApi.java</summary>
+<img src="https://i.ibb.co/XsR87s4/2023-12-06-224111.jpg" alt="2023-12-06-224111" border="0">
+
+  
+[Наверх](#up)
 </details>
 </details>
 

@@ -1,6 +1,6 @@
 # <a name="up" /> QA Aautomation portfolio
 ## Тестирование UI 
-*Тестирование сделано на примере двух сайтов Яндекс.Самокат и Stellar Burgers*  <br>
+*Тестирование на примере двух сайтов Яндекс.Самокат и Stellar Burgers*  <br>
 
 ```
 - делалось покрытие автотестами по ручному сценарию;
@@ -15,7 +15,7 @@
  <summary>Яндекс.Самокат</summary>
 
 <details>
-<summary> Код локаторов, методов и скроллов Главной страницы </summary>
+<summary> Page Objects, методы и скроллы Главной страницы </summary>
 
  <img src="https://i.ibb.co/7bZHWy8/qa-scooter-praktikum-services-ru.png" alt="qa-scooter-praktikum-services-ru" border="0"> <br>
 MainPage.java  <br>
@@ -25,7 +25,7 @@ MainPage.java  <br>
 </details>
 
 <details>
-<summary> Код локаторов, методов страницы Авторизации </summary>
+<summary> Page Objects, методы страницы Авторизации </summary>
 <img src="https://i.ibb.co/mJ6K6bj/2023-12-03-040558.jpg" alt="2023-12-03-040558" border="0"> <br>
 OrderPage.java
 <img src="https://i.ibb.co/w0CDVHY/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-org-example" border="0"> <br>
@@ -35,7 +35,7 @@ OrderPage.java
 </details>
 
 <details>
-<summary>Код локатора и методов для логотипа </summary>
+<summary>Page Objects, методы для логотипа </summary>
 <img src="https://i.ibb.co/BypvGvR/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-main-java-Logo-Samoca" border="0">
  
 [Наверх](#up)
@@ -44,11 +44,20 @@ OrderPage.java
 
 ### Тесты
 <details>
-<summary>Тест прохождения полного пользовательского сценария с авторизацией и заказом самоката</summary>
+<summary>Тест полного пользовательского сценария с авторизацией и заказом самоката</summary>
  <img src="https://i.ibb.co/yfTXWWP/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example" border="0">
  
  [Наверх](#up)
  
+</details>
+
+<details>
+<summary>Параметризованный тест с набором разных данных при заказе самоката</summary>
+OrderParamTest.java
+<img src="https://i.ibb.co/yfTXWWP/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-blob-develop-src-test-java-org-example" border="0"><img src="https://i.ibb.co/qJ8qbyZ/github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-Order-Param-Test-java.png" alt="github-com-Sabina-Badeeva-UI-Selenium-tests-of-Yandex-Samokat-Order-Param-Test-java" border="0">
+
+  [Наверх](#up)
+  
 </details>
 
 </details>

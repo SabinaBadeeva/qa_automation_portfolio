@@ -95,8 +95,8 @@ LogoSamocatTest.java
 <summary>Stellar Burgers</summary>
 
 <details>
-<summary>Page Object и методы страницы Авторизации</summary>
-<img src="https://i.ibb.co/HNbpBLn/2023-12-06-200253.jpg" alt="2023-12-06-200253" border="0">
+<summary>Page Object и методы Авторизации</summary>
+<img src="https://i.ibb.co/HNbpBLn/2023-12-06-200253.jpg" alt="2023-12-06-200253" border="0"><br>
 AuthorisationPage.java
 <img src="https://i.ibb.co/Cs4mmW1/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
   
@@ -106,7 +106,7 @@ AuthorisationPage.java
 
 <details>
 <summary>Page Object и методы Главной страницы</summary>
-<img src="https://i.ibb.co/SrJTfyd/stellarburgers-nomoreparties-site.png" alt="stellarburgers-nomoreparties-site" border="0">  
+<img src="https://i.ibb.co/SrJTfyd/stellarburgers-nomoreparties-site.png" alt="stellarburgers-nomoreparties-site" border="0">  <br>
 MainPage.java
 <img src="https://i.ibb.co/4MBRzQv/2023-12-06-201006.jpg" alt="2023-12-06-201006" border="0">
 
@@ -114,15 +114,59 @@ MainPage.java
 </details>
 
 <details>
-<summary>Page Object и методы страницы Регистрации</summary>
-<img src="https://i.ibb.co/DGct03s/2023-12-06-201554.jpg" alt="2023-12-06-201554" border="0">
+<summary>Page Object и методы Личного кабинета</summary>
+<img src="https://i.ibb.co/0yb16T9/2023-12-06-203235.jpg" alt="2023-12-06-203235" border="0"><br>
 PrivateAccount.java
 <img src="https://i.ibb.co/3fnhBHC/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
 
 [Наверх](#up)
 </details>
 
+<details>
+<summary>Page Object, методы и скроллы Конструктора</summary>
+<img src="https://i.ibb.co/k0xj7CK/2023-12-06-202424.jpg" alt="2023-12-06-202424" border="0"><br>
+TransferButton.java
+<img src="https://i.ibb.co/4g5m41W/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
+
+[Наверх](#up)
 </details>
+
+<details>
+<summary>Page Object, методы страницы Регистрации</summary>
+<img src="https://i.ibb.co/DGct03s/2023-12-06-201554.jpg" alt="2023-12-06-201554" border="0"><br>
+RegistrationPage.java  
+<img src="https://i.ibb.co/12gz4dP/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-main-java-org-e" border="0">
+
+  [Наверх](#up)
+</details>
+
+### Тесты
+
+<details>
+<summary>Resources.java</summary>
+<img src="https://i.ibb.co/vYsH726/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Resou.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Resou" border="0"><br>
+
+[Наверх](#up)
+</details>
+<details>
+<summary>Тесты регистрации</summary> 
+RegistrationTest.java  
+<img src="https://i.ibb.co/xqPfTPt/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Regis.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Regis" border="0">
+
+[Наверх](#up)
+</details>
+
+<details>
+<summary>Тесты по различным сценариям</summary>
+TransferTest.java
+<img src="https://i.ibb.co/QM9VMrR/github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans.png" alt="github-com-Sabina-Badeeva-UI-Tests-Page-Object-Of-Stellar-Burgers-blob-develop-3-src-test-java-Trans" border="0">
+
+[Наверх](#up)
+</details>
+
+</details>
+  
+
 
 Тестирование API 
 1. сайта Яндекс.Самокат 

@@ -178,7 +178,7 @@ TransferTest.java
 <summary>Яндекс.Самокат</summary>
   Тестирование API на создание курьера, проверки логина, создание заказа по документации qa-scooter.praktikum-services.ru/docs/.
   <details>
-  <summary>Тестируемые ручек</summary>
+  <summary>Тестируемые ручки</summary>
     
  ### Создание курьера
  ```
@@ -215,7 +215,7 @@ TransferTest.java
 </details>
 
   <details>
-  <summary>courier</summary>
+  <summary>Курьер (courier)</summary>
   <details>
     <summary>Constants.java</summary>
 <img src="https://i.ibb.co/6XZrQB4/2023-12-06-215947.jpg" alt="2023-12-06-215947" border="0"><.br>
@@ -251,7 +251,7 @@ TransferTest.java
 </details>
 
 <details>
-    <summary>order</summary>
+    <summary>Заказ (order)</summary>
   <details>
     <summary>Order.java</summary>
 <img src="https://i.ibb.co/vLMXqD7/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-main-java-org-example-order-Orde" border="0">
@@ -281,12 +281,29 @@ TransferTest.java
 ### Тесты
   
 <details>
-   <summary>CreateCourierTest.java</summary>
+   <summary>Тесты по созданию курьера (CreateCourierTest.java)</summary>
   <img src="https://i.ibb.co/cvxMycb/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Courier-Test-ja.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Courier-Test-ja" border="0">
   
 [Наверх](#up)
 </details>
+<details>
+   <summary>Тесты по созданию заказа (CreateOrderTest.java)</summary>
+<img src="https://i.ibb.co/wB874Dz/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Order-Test-java.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Create-Order-Test-java" border="0">
+  
+[Наверх](#up)
+</details>
+<details>
+   <summary>LoginCourierTest.java</summary>
+<img src="https://i.ibb.co/BgBWVj7/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Login-Courier-Test-jav.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Login-Courier-Test-jav" border="0">
 
+  [Наверх](#up)
+</details>
+<details>
+   <summary>Тест на роверку списка заказов</summary>
+<img src="https://i.ibb.co/YcfH55P/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-List-Order-Test-java.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-List-Order-Test-java" border="0">
+
+  [Наверх](#up)
+</details>
 </details>
 
 Юнит-тестирование на часть кода программы

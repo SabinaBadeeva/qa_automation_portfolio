@@ -445,9 +445,53 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 
    [Наверх](#up)
 </details>
-  <details>
+</details>
 
-    
+  ### Тесты
+  <details>
+   <summary>orderTest</summary>
+<details>
+   <summary>Тесты на создание заказа (CreateOrderTest.java)</summary>
+  <img src="https://i.ibb.co/nPCKCvz/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-order-Test-Create-O.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-order-Test-Create-O" border="0">
+
+  [Наверх](#up)
+</details>
+<details>
+   <summary>Тесты получения заказа пользователя и списка заказов(GetOrderTest.java)</summary>
+   <img src="https://i.ibb.co/dgfm9gp/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-order-Test-Get-Orde.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-order-Test-Get-Orde" border="0">
+
+  [Наверх](#up)
+</details>
+  </details>
+  
+   <details>
+   <summary>userTest</summary>
+<details>
+   <summary>Тесты на изменение данных пользователя(UserChangeDataTest.java)</summary>
+   <img src="https://i.ibb.co/jg574Gz/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Chan.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Chan" border="0">
+
+   [Наверх](#up)
+</details>
+<details>
+   <summary>Тест на создание пользователя с пустыми полями (UserEmptyDataTest.java)</summary>
+   <img src="https://i.ibb.co/yFw8zJw/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Empt.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Empt" border="0">
+
+   [Наверх](#up)
+</details>
+<details>
+   <summary>Тест на различную авторизацию пользователя(UserLoginTest.java)</summary>
+<img src="https://i.ibb.co/G3ZtJQq/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Logi.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Logi" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+   <summary>Тесты на создание пользователя(UserTest.java)</summary>
+<img src="https://i.ibb.co/Jd74kvs/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Test.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-test-java-user-Test-User-Test" border="0">
+
+[Наверх](#up)
+</details>
+  </details>
+  
 </details>
 
 Юнит-тестирование на часть кода программы

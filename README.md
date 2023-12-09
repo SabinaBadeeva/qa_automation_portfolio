@@ -163,6 +163,13 @@ TransferTest.java
 
 [Наверх](#up)
 </details>
+
+### Отчет по покрытию
+<details>
+<summary>Allure results</summary>
+  
+  [Наверх](#up)
+</details>
 </details>
   
 ## Тестирование API 

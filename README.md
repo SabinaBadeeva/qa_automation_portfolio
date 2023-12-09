@@ -293,16 +293,23 @@ TransferTest.java
 [Наверх](#up)
 </details>
 <details>
-   <summary>LoginCourierTest.java</summary>
+   <summary>Тесты на авторизацию курьера (LoginCourierTest.java)</summary>
 <img src="https://i.ibb.co/BgBWVj7/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Login-Courier-Test-jav.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-Login-Courier-Test-jav" border="0">
 
   [Наверх](#up)
 </details>
 <details>
-   <summary>Тест на роверку списка заказов</summary>
+   <summary>Тест на проверку списка заказов</summary>
 <img src="https://i.ibb.co/YcfH55P/github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-List-Order-Test-java.png" alt="github-com-Sabina-Badeeva-API-Tests-Yandex-Samokat-blob-develop-src-test-java-List-Order-Test-java" border="0">
 
   [Наверх](#up)
+</details>
+
+### Отчет по покрытию
+<details>
+   <summary>Allure results</summary>
+
+   [Наверх](#up)
 </details>
 </details>
 

@@ -315,6 +315,8 @@ TransferTest.java
 ### Отчет по покрытию
 <details>
    <summary>Allure results</summary>
+<img src="https://i.ibb.co/hBwGS9h/2023-12-09-224544.jpg" alt="2023-12-09-224544" border="0">
+<img src="https://i.ibb.co/w4wcXGc/2023-12-09-224634.jpg" alt="2023-12-09-224634" border="0">
 
    [Наверх](#up)
 </details>

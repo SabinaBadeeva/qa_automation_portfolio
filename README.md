@@ -501,7 +501,14 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 
 [Наверх](#up)
 </details>
-  
+
+### Видео тестов
+<details>
+   <summary>Видео тестов по созданию заказа</summary>
+
+https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139ab6-4143-4c0e-80af-5fa322f12fe0
+
+
 </details>
 
 Юнит-тестирование на часть кода программы

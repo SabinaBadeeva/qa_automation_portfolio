@@ -176,7 +176,7 @@ TransferTest.java
 ```
 <details>
 <summary>Яндекс.Самокат</summary>
-  
+  Тестирование API на создание курьера, проверки логина, создание заказа по документации qa-scooter.praktikum-services.ru/docs/.
   <details>
   <summary>Тестируемые ручки</summary>
   <img src="https://i.ibb.co/k1BQRvS/2023-12-06-215329.jpg" alt="2023-12-06-215329" border="0">

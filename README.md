@@ -496,8 +496,8 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 ### Отчет по покрытию
   <details>
    <summary>Allure results</summary>
-    <img src="https://i.ibb.co/vxScnwY/2023-12-10-013948.jpg" alt="2023-12-10-013948" border="0">
-   <img src="https://i.ibb.co/f8XQ8Fp/2023-12-10-014046.jpg" alt="2023-12-10-014046" border="0">
+<img src="https://i.ibb.co/d7dN0XG/2023-12-10-014407.jpg" alt="2023-12-10-014407" border="0">
+<img src="https://i.ibb.co/jyN4TN1/2023-12-10-014435.jpg" alt="2023-12-10-014435" border="0">
 
 [Наверх](#up)
 </details>

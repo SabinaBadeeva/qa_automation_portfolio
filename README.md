@@ -414,8 +414,40 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 
    [Наверх](#up)
 </details>
+</details>
 
+<details>
+   <summary> Пользователь (user)</summary>
+<details>
+   <summary>BaseApi.java</summary>
+   <img src="https://i.ibb.co/cyC6t2d/2023-12-10-010652.jpg" alt="2023-12-10-010652" border="0">
+</details>
 
+<details>
+   <summary>Constants.java</summary>
+     <img src="https://i.ibb.co/W5MzzWt/2023-12-10-010849.jpg" alt="2023-12-10-010849" border="0">
+</details>
+<details>
+   <summary>User.java</summary>
+<img src="https://i.ibb.co/Pjn9fq1/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+   <summary>UserClient.java</summary>
+   <img src="https://i.ibb.co/Btxr9sS/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us" border="0">
+
+[Наверх](#up)
+</details>
+<details>
+   <summary>UserCredentials.java</summary>
+   <img src="https://i.ibb.co/M1B98xX/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-user-Us" border="0">
+
+   [Наверх](#up)
+</details>
+  <details>
+
+    
 </details>
 
 Юнит-тестирование на часть кода программы

@@ -320,6 +320,12 @@ TransferTest.java
 
    [Наверх](#up)
 </details>
+
+### Видео примера прохождения тестов по созданию курьера
+<details>
+   <summary>Видео тестов</summary>
+<video width="640" height="360" frameborder="0" src = "https://mega.nz/embed/pDF0hKDB#35-ltViDhvkl2ZG39zi8dxmUqqqLGdhHHjFRAMvMkSg!1a1m" allowfullscreen allow="autoplay; width=180/>
+  </details>
 </details>
 
 Юнит-тестирование на часть кода программы

@@ -15,6 +15,8 @@
  <details> 
  <summary>Яндекс.Самокат</summary>
 
+ ### Код
+
 <details>
 <summary> Page Object, методы и скроллы Главной страницы </summary>
 
@@ -88,12 +90,20 @@ LogoSamocatTest.java
 
 </details>
 
-</details>
+### Видео тестов
 
+<details>
+<summary>Видео теста полного пользовательского сценария с авторизацией и заказом самоката</summary>
+
+https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/e916fa38-2c7a-42a7-a90c-c7f51d214c45
+
+</details>
+</details>
 <details>
   
 <summary>Stellar Burgers</summary>
 
+### Код
 <details>
 <summary>Page Object и методы Авторизации</summary>
 <img src="https://i.ibb.co/HNbpBLn/2023-12-06-200253.jpg" alt="2023-12-06-200253" border="0"><br>
@@ -167,6 +177,8 @@ TransferTest.java
 ### Отчет по покрытию
 <details>
 <summary>Allure results</summary>
+<img src="https://i.ibb.co/fCnsGmG/2023-12-10-002444.jpg" alt="2023-12-10-002444" border="0">
+<img src="https://i.ibb.co/QMVg5tr/2023-12-10-002515.jpg" alt="2023-12-10-002515" border="0">
   
   [Наверх](#up)
 </details>
@@ -221,6 +233,7 @@ TransferTest.java
 ```
 </details>
 
+### Код
   <details>
   <summary>Курьер (courier)</summary>
   <details>
@@ -328,6 +341,81 @@ TransferTest.java
 https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d0908-40c4-4d41-83d5-d358a2ed423a
 
   </details>
+</details>
+
+<details>
+   <summary>Stellar Burgers</summary>
+  
+  ```
+Тестирование API на создание пользователя, проверки логина, создание заказа.
+```
+
+<details>
+   <summary>Тестируемые русчки</summary>
+
+#### Создание пользователя:
+```
+создать уникального пользователя;
+создать пользователя, который уже зарегистрирован;
+создать пользователя и не заполнить одно из обязательных полей.
+```
+#### Логин пользователя:
+```
+логин под существующим пользователем,
+логин с неверным логином и паролем.
+```
+#### Изменение данных пользователя:
+```
+с авторизацией,
+без авторизации,
+Для обеих ситуаций нужно проверить, что любое поле можно изменить.
+Для неавторизованного пользователя — ещё и то, что система вернёт ошибку.
+```
+#### Создание заказа:
+```
+с авторизацией,
+без авторизации,
+с ингредиентами,
+без ингредиентов,
+с неверным хешем ингредиентов.
+```
+#### Получение заказов конкретного пользователя:
+```
+авторизованный пользователь,
+неавторизованный пользователь.
+```
+ </details>
+ 
+   ### Код
+<details>
+   <summary> Заказ (order)</summary>
+
+  <details>
+   <summary>Ingredients.java</summary>
+  <img src="https://i.ibb.co/LJ065H5/2023-12-10-005433.jpg" alt="2023-12-10-005433" border="0">
+  
+[Наверх](#up)
+</details>
+ <details>
+   <summary>IngredientsClient.java</summary>
+  <img src="https://i.ibb.co/Nrdhm94/2023-12-10-005922.jpg" alt="2023-12-10-005922" border="0">
+
+  [Наверх](#up)
+</details>
+<details>
+   <summary>Order.java</summary>
+<img src="https://i.ibb.co/b3vdXkK/2023-12-10-010016.jpg" alt="2023-12-10-010016" border="0">
+
+[Наверх](#up)
+</details>
+   <details>
+   <summary>OrderClient.java</summary>
+     <img src="https://i.ibb.co/wzVBCPD/github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-order-O.png" alt="github-com-Sabina-Badeeva-API-Tests-Stellar-Burgers-blob-develop-2-src-main-java-org-example-order-O" border="0">
+
+   [Наверх](#up)
+</details>
+
+
 </details>
 
 Юнит-тестирование на часть кода программы

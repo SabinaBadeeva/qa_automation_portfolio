@@ -321,9 +321,10 @@ TransferTest.java
    [Наверх](#up)
 </details>
 
-### Видео примера прохождения тестов по созданию курьера
+### Видео тестов 
 <details>
-   <summary>Видео тестов</summary>
+   <summary>Видео примера прохождения тестов по созданию курьера</summary>
+  
 https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d0908-40c4-4d41-83d5-d358a2ed423a
 
   </details>

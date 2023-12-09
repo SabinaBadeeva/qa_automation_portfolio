@@ -324,7 +324,8 @@ TransferTest.java
 ### Видео примера прохождения тестов по созданию курьера
 <details>
    <summary>Видео тестов</summary>
-<video width="640" height="360" frameborder="0" src = "https://mega.nz/embed/pDF0hKDB#35-ltViDhvkl2ZG39zi8dxmUqqqLGdhHHjFRAMvMkSg!1a1m" allowfullscreen allow="autoplay; width=180/>
+https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d0908-40c4-4d41-83d5-d358a2ed423a
+
   </details>
 </details>
 

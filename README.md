@@ -1,4 +1,4 @@
-# <a name="up" /> QA Aautomation portfolio
+# <a name="up" /> QA Automation portfolio
 ## Тестирование UI 
 *Тестирование на примере двух сайтов Яндекс.Самокат и Stellar Burgers*  <br>
 

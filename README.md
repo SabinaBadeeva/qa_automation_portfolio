@@ -578,6 +578,21 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139a
 
 [Наверх](#up)
   </details>
+
+  ### Отчет 
+  <details>
+   <summary>Отчет в Jacoco</summary>
+  <img src="https://i.ibb.co/qxQQHLz/2023-12-11-223122.jpg" alt="2023-12-11-223122" border="0">
+<img src="https://i.ibb.co/L9RqWTY/2023-12-11-223350.jpg" alt="2023-12-11-223350" border="0">
+<img src="https://i.ibb.co/Hg6tHhW/2023-12-11-223330.jpg" alt="2023-12-11-223330" border="0">
+<img src="https://i.ibb.co/L5MFL5t/2023-12-11-223313.jpg" alt="2023-12-11-223313" border="0">
+<img src="https://i.ibb.co/GT0cLYQ/2023-12-11-223247.jpg" alt="2023-12-11-223247" border="0">
+
+
+[Наверх](#up)
+  </details>
+
+  </details>
   
 <details>
    <summary>Stellar Burgers</summary>

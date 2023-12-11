@@ -351,7 +351,7 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 ```
 
 <details>
-   <summary>Тестируемые русчки</summary>
+   <summary>Тестируемые ручки</summary>
 
 #### Создание пользователя:
 ```
@@ -507,15 +507,23 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
    <summary>Видео тестов по созданию заказа</summary>
 
 https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139ab6-4143-4c0e-80af-5fa322f12fe0
-
-
 </details>
 
-Юнит-тестирование на часть кода программы
-(https://github.com/SabinaBadeeva/Maven_Project-JUnit-Mokito-Jacoco/tree/develop) и 
-(https://github.com/SabinaBadeeva/Java-Unit-Tests-Stellar_Burgers/tree/develop_1)
+## Юнит-тестирование 
+
+<details>
+   <summary> Часть кода программы </summary>
+</details>
+<details>
+   <summary>Stellar_Burgers</summary>
+</details>
+
+```
 - использовались  Mockito и JUnit;
-- для увеличения покрытия каждый метод каждого класса вызывался отдельным тестом;    --использовались параметризация, стабы;
-- сделан отчет в Jacoco.
+- для увеличения покрытия каждый метод каждого класса вызывался отдельным тестом;
+- использовались параметризация, инъекция зависпимостей, стабы, моки;
+- отчет по покрытию в Jacoco.
+
+```
 
 

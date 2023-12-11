@@ -667,6 +667,27 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139a
    [Наверх](#up)
   </details>
 
+  ### Отчет
+  <details>
+   <summary>Отчет по покрытию в Jacoco</summary>
+   <img src="https://i.ibb.co/CtkHJGb/2023-12-11-231321.jpg" alt="2023-12-11-231321" border="0">
+<img src="https://i.ibb.co/MPd4xkg/2023-12-11-231212.jpg" alt="2023-12-11-231212" border="0">
+<img src="https://i.ibb.co/NxmwxJ9/2023-12-11-231231.jpg" alt="2023-12-11-231231" border="0">
+<img src="https://i.ibb.co/pxmthGm/2023-12-11-231307.jpg" alt="2023-12-11-231307" border="0">
+<img src="https://i.ibb.co/brm4SKS/2023-12-11-231253.jpg" alt="2023-12-11-231253" border="0">
+
+
+
+ [Наверх](#up)
+  </details>
+
+  ### Видео тестов
+  <details>
+   <summary>Видео unit-теста на класс Burger</summary>
+
+https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/daaafadf-87d8-4f11-9659-ff8deb89b232
+ </details>
+
   
 </details>
 

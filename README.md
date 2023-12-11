@@ -195,7 +195,11 @@ TransferTest.java
 ```
 <details>
 <summary>Яндекс.Самокат</summary>
-  Тестирование API на создание курьера, проверки логина, создание заказа по документации qa-scooter.praktikum-services.ru/docs/.
+  
+   ```
+  Тестирование API на создание курьера, проверки логина, создание заказа
+ по документации qa-scooter.praktikum-services.ru/docs/.
+   ```
   <details>
   <summary>Тестируемые ручки</summary>
     
@@ -591,11 +595,79 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139a
 
 [Наверх](#up)
   </details>
-
   </details>
   
 <details>
    <summary>Stellar Burgers</summary>
+
+  ### Код
+  <details>
+   <summary>Bun.java</summary>
+    <img src="https://i.ibb.co/tmTrTpY/2023-12-11-224313.jpg" alt="2023-12-11-224313" border="0">
+  </details>
+   <details>
+   <summary>Burger.java</summary>
+   <img src="https://i.ibb.co/kKPB80x/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Bur.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Bur" border="0">
+
+   [Наверх](#up)
+  </details>
+<details>
+   <summary>Database.java</summary>
+   <img src="https://i.ibb.co/5czxvsF/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Dat.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Dat" border="0">
+
+   [Наверх](#up)
+  </details>
+  <details>
+   <summary>Ingredient.java</summary>
+   <img src="https://i.ibb.co/RNqJyWR/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Ing.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Ing" border="0">
+
+  [Наверх](#up)
+  </details>
+  <details>
+   <summary>IngredientType.java</summary>
+   <img src="https://i.ibb.co/MhGFHMy/2023-12-11-225017.jpg" alt="2023-12-11-225017" border="0">
+  </details>
+  
+   <details>
+   <summary>Praktikum.java</summary>
+   <img src="https://i.ibb.co/qrxsRKh/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Pra.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-main-java-praktikum-Pra" border="0">
+
+   [Наверх](#up)
+  </details>
+
+  ### Тесты
+  <details>
+   <summary>BunTest.java</summary>
+   <img src="https://i.ibb.co/HN00WFf/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Bun-Test-java.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Bun-Test-java" border="0">
+
+   [Наверх](#up)
+  </details>
+   <details>
+   <summary>BurgerTest.java</summary>
+  <img src="https://i.ibb.co/kJg8q8Q/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Burger-Test-j.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Burger-Test-j" border="0">
+
+   [Наверх](#up)
+  </details>
+   <details>
+   <summary>DatabaseTest.java</summary>
+     <img src="https://i.ibb.co/pKVgfND/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Data-Base-Tes.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Data-Base-Tes" border="0">
+
+  [Наверх](#up)
+  </details>
+<details>
+   <summary>IngredientTest.java</summary>
+   <img src="https://i.ibb.co/vsV9TZD/2023-12-11-225756.jpg" alt="2023-12-11-225756" border="0">
+
+   [Наверх](#up)
+  </details>
+  <details>
+   <summary>IngredientTypeTest.java</summary>
+   <img src="https://i.ibb.co/mq068L7/github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Ingredient-Ty.png" alt="github-com-Sabina-Badeeva-Java-Unit-Tests-Stellar-Burgers-blob-develop-1-src-test-java-Ingredient-Ty" border="0">
+
+   [Наверх](#up)
+  </details>
+
+  
 </details>
 
 

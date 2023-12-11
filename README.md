@@ -505,19 +505,12 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/995d09
 ### Видео тестов
 <details>
    <summary>Видео тестов по созданию заказа</summary>
-
 https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139ab6-4143-4c0e-80af-5fa322f12fe0
+</details>
 </details>
 
 ## Юнит-тестирование 
-
-<details>
-   <summary> Часть кода программы </summary>
-</details>
-<details>
-   <summary>Stellar_Burgers</summary>
-</details>
-
+*Тестирование на примере части кода программы по мотивам мультфильма "Мадагаскар" и сайта по заказу бургеров Stellar Burgers*
 ```
 - использовались  Mockito и JUnit;
 - для увеличения покрытия каждый метод каждого класса вызывался отдельным тестом;
@@ -525,5 +518,44 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139a
 - отчет по покрытию в Jacoco.
 
 ```
+
+<details>
+   <summary> Часть кода программы </summary>
+  
+### Код
+  <details>
+    <summary>Animal.java</summary>
+  <img src="https://i.ibb.co/wwj7C1Y/2023-12-11-220203.jpg" alt="2023-12-11-220203" border="0">
+</details>
+
+<details>
+   <summary>Cat.java</summary>
+  <img src="https://i.ibb.co/TTsB1YQ/2023-12-11-220339.jpg" alt="2023-12-11-220339" border="0">
+</details>
+
+<details>
+   <summary>Feline.java</summary>
+  <img src="https://i.ibb.co/z8PQfZg/2023-12-11-220431.jpg" alt="2023-12-11-220431" border="0">
+</details>
+
+  <details>
+   <summary>Lion.java</summary>
+     <img src="https://i.ibb.co/QFfF9cq/github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-main-java-com-example-L.png" alt="github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-main-java-com-example-L" border="0">
+
+  [Наверх](#up)
+  </details>
+  
+<details>
+   <summary>Predator.java</summary>
+<img src="https://i.ibb.co/j5WQ4Wt/2023-12-11-220701.jpg" alt="2023-12-11-220701" border="0">
+</details>
+
+</details>
+  
+<details>
+   <summary>Stellar Burgers</summary>
+</details>
+
+
 
 

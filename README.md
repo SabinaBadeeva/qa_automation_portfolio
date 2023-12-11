@@ -550,7 +550,34 @@ https://github.com/SabinaBadeeva/qa_automation_portfolio/assets/117313358/2a139a
 <img src="https://i.ibb.co/j5WQ4Wt/2023-12-11-220701.jpg" alt="2023-12-11-220701" border="0">
 </details>
 
+### Тесты
+<details>
+   <summary>CatTest.java</summary>
+  <img src="https://i.ibb.co/nnTp1PY/github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Cat-Test-java.png" alt="github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Cat-Test-java" border="0">
+
+  [Наверх](#up)
 </details>
+
+<details>
+   <summary>FelineTest.java</summary>
+    <img src="https://i.ibb.co/NWDh68z/github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Feline-Test-j.png" alt="github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Feline-Test-j" border="0">
+     
+[Наверх](#up)
+</details>
+
+<details>
+   <summary>LionTest.java</summary>
+   <img src="https://i.ibb.co/t80TjpV/github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Lion-Test-jav.png" alt="github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Lion-Test-jav" border="0">
+
+   [Наверх](#up)
+  </details>
+  
+<details>
+   <summary>ParameterizedTest.java</summary>
+<img src="https://i.ibb.co/5sD0r8p/github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Parameterized.png" alt="github-com-Sabina-Badeeva-Maven-Project-JUnit-Mokito-Jacoco-blob-develop-src-test-java-Parameterized" border="0">
+
+[Наверх](#up)
+  </details>
   
 <details>
    <summary>Stellar Burgers</summary>
